@@ -1,0 +1,30 @@
+.contact{
+    margin: auto;
+    padding: 15px;
+    background-color: lightskyblue;
+    border: 2px solid purple;
+    border-radius: 15px;
+}
+#contactMe {
+    text-align: center;
+}
+.Movie{
+    background-color: black; 
+    display: block; 
+    margin: auto; 
+    width: 95%;
+    border: 10px solid purple;
+    border-radius: 10px;
+}
+
+.nav {
+    float: right; 
+    border-bottom: 
+    solid purple; 
+    padding: 3px; 
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
